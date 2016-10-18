@@ -102,5 +102,7 @@ public class TestBowl {
 
 		System.out.println("\n\nTEST n2:\n");
 		test.Tester(bowl2, 10);
+		
+		System.out.println("\n\nFIN TEST\n");
 	}
 }
